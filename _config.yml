@@ -17,3 +17,4 @@ github_username:  mymosh
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
